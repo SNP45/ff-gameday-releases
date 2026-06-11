@@ -1,0 +1,10 @@
+{
+  "version": "2.1.0",
+  "notes": "Konfigurierbares Hauptprofil, Versionsanzeige, Mac- und Windows-Version.",
+  "mac": {
+    "url": "https://github.com/DEIN-ACCOUNT/ff-gameday-releases/releases/download/v2.1.0/FF_Gameday_Mac_2.1.0.zip"
+  },
+  "windows": {
+    "url": "https://github.com/DEIN-ACCOUNT/ff-gameday-releases/releases/download/v2.1.0/FF_Gameday_Windows_2.1.0.zip"
+  }
+}
